@@ -50,6 +50,15 @@ a:visited {
     color: blue;
 }
 
+.accent {
+    color: #34cb91;
+}
+
+#first-paragraph  {
+    color: purple;
+    font-size: 1.5rem;
+}
+
 footer {
     text-align: center;
     background-color: #22466c;
